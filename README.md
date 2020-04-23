@@ -1,5 +1,6 @@
 # **My Recipe Book**
-(whatever we want to call it)
+
+[My Recipe Book](http://my-recipebook.surge.sh/)
 
 ### Overview
 
@@ -10,8 +11,6 @@ _**My Recipe Book** Interactive online recipe book which allows users to add, ed
 ### Wireframes
 
 > Use the Wireframes section to display desktop, tablet and mobile views.
-
-
 
 - <b> Desktop Landing
 
@@ -63,7 +62,7 @@ _**My Recipe Book** Interactive online recipe book which allows users to add, ed
 
 _The **My Recipe Book** app ._
 
->Recipes will include: -Prep Time, Cook Time, Total Time, Difficulty(), Cuisine (e.g., Chinese, Vegan, American, etc.), Ingredients, Instructions, 
+> Recipes will include: -Prep Time, Cook Time, Total Time, Difficulty(), Cuisine (e.g., Chinese, Vegan, American, etc.), Ingredients, Instructions,
 
 <br>
 
@@ -78,7 +77,6 @@ _TBD_
 |   React Router   | _Lorem ipsum dolor sit amet, consectetur._ |
 | React SemanticUI | _Lorem ipsum dolor sit amet, consectetur._ |
 |   React Spring   | _Lorem ipsum dolor sit amet, consectetur._ |
-
 
 <br>
 
@@ -124,19 +122,18 @@ server.js
 
 > Use
 
-|  Function  | Description                                |
-| :--------: | :----------------------------------------- |
-| Bootstrap  | _Debating uing this to build forms_ |
+| Function  | Description                         |
+| :-------: | :---------------------------------- |
+| Bootstrap | _Debating uing this to build forms_ |
 
 <br>
-
-
 
 ### Post-MVP
 
 - _Link users to recipes they created_
 - _Ability to filter recipes on homepage_
+- Add user avatars
 
 <br>
 
-***
+---
